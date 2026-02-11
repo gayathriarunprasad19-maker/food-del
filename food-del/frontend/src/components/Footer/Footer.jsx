@@ -7,8 +7,9 @@ const Footer = () => {
     <div className='footer' id='footer'>
       <div className="footer-content">
         <div className="footer-content-left">
-            <img src={assets.logo} alt="" />
-            <p>Tomato is your go-to food delivery platform, bringing delicious meals from trusted kitchens straight to your doorstep. We focus on quality, speed, and convenience to ensure a smooth and satisfying ordering experience every time. Discover a wide variety of cuisines and enjoy food you love, delivered fresh and fast.</p>
+            {/* <img src={assets.logo} alt="" /> */}
+            <h2 className="footer-logo">TasteHub.</h2>
+            <p>is your go-to food delivery platform, bringing delicious meals from trusted kitchens straight to your doorstep. We focus on quality, speed, and convenience to ensure a smooth and satisfying ordering experience every time. Discover a wide variety of cuisines and enjoy food you love, delivered fresh and fast.</p>
             <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt="" />
                 <img src={assets.twitter_icon} alt="" />

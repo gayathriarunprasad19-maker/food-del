@@ -6,8 +6,15 @@
 }
 
 .navbar .logo {
-    width: 150px;
+    /* width: 150px; */
+  font-size: 32px;
+  font-weight: 700;
+  color: #ff4c24;   /* same tomato orange */
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
 }
+
+
 
 .navbar-menu {
     display: flex;

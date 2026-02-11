@@ -8,6 +8,12 @@
     padding: 20px 8vw;
     padding-top: 80px;
 }
+.footer-logo {
+    font-size: 34px;
+    font-weight: 700;
+    color: #ff4c24;  /* same tomato orange */
+}
+
 .footer-content{
     width: 100%;
     display: grid;
