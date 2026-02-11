@@ -1,7 +1,7 @@
-# Tomato – Online Food Delivery Web Application
+# TasteHub – Online Food Delivery Web Application
 
 ## Description
-Tomato is a full-stack food delivery web application that allows users to browse food items,
+TasteHub is a full-stack food delivery web application that allows users to browse food items,
 add them to the cart, and place orders. The application demonstrates real-world frontend and
 backend integration with a clean and responsive user interface.
 
