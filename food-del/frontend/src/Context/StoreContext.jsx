@@ -6,7 +6,7 @@ export const StoreContext = createContext(null);
 const StoreContextProvider = ({ children }) => {
 
   // ✅ BACKEND BASE URL (REQUIRED FOR LOGIN/SIGNUP)
-  const url = "http://localhost:4000";
+  const url = "https://food-del-backend-0w4i.onrender.com"
 
   // ✅ STATIC FOOD DATA
   const [food_list] = useState(foodData);
